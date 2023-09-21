@@ -11,6 +11,6 @@ class Solution:
                 
 # Compare to best runtime solution: 
 # thought: use Counter to count the number of each character in the string
-class Solution:
-    def isAnagram(self, s: str, t: str) -> bool:
-        return Counter(s)==Counter(t)
+# class Solution:
+#     def isAnagram(self, s: str, t: str) -> bool:
+#         return Counter(s)==Counter(t)
